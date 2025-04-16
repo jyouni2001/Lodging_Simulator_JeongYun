@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1f0957479253242ab3e21cd93f6c37, type: 3}
+  m_Name: Databases
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Floor
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4222678383280253326, guid: 61f9493f02cbac1468190342e6bfa3cc, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 0
+  - <Name>k__BackingField: Parasol_Blue
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4952451260224711998, guid: f571231ec60b2d441900cf0e394103f8, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 1000
+  - <Name>k__BackingField: Parasol_Green
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8546872736702389067, guid: 559b6a6cac4b00e4a815b02a92551dd2, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 1000
+  - <Name>k__BackingField: Parasol_Red
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 492126605181440544, guid: 83a9ec598851ff44693032cd849f09f7, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 1000
+  - <Name>k__BackingField: SunBad_01
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 5339254077502016075, guid: 9345cfe222ffa7c40897c380abfee2df, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 500
+  - <Name>k__BackingField: Sunbad_02
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 4332167019870937627, guid: 329a20f02f9676c489effd8edd7c238d, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 500
+  - <Name>k__BackingField: Sunbed_03
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 1897029453333840634, guid: 661088bc2ce11de488929adb1ef2038e, type: 3}
+    <IsWall>k__BackingField: 0
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 500
+  - <Name>k__BackingField: Wall
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 1131916258191136379, guid: 1ae2e3d8674d4be4c82a724dc5028ab7, type: 3}
+    <IsWall>k__BackingField: 1
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 0
+  - <Name>k__BackingField: Door
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 1131916258191136379, guid: dbae098a3e6cf414d82e41ee7edd83b5, type: 3}
+    <IsWall>k__BackingField: 1
+    <kindIndex>k__BackingField: 1
+    <BasePrice>k__BackingField: 0
